@@ -1,8 +1,4 @@
--- Drop the TravelPortal table
-DROP TABLE TravelPortal;
 
--- Drop the Ticket table
-DROP TABLE Ticket;
 
 -- Drop the Service table
 DROP TABLE Service;
